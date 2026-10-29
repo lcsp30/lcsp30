@@ -12,7 +12,7 @@ Tenho interesse principalmente em **desenvolvimento web**, atuando tanto no fron
 
 ### 💻 Desenvolvimento Web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,php,nodejs)](https://skillicons.dev)
 
 ### 🗄️ Banco de Dados
 
